@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0f197d8-732f-4326-ae44-a44d64adee86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Notebooks/02_neural_network_classification_with_tensorflow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/02_neural_network_classification_with_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/rechne.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700756023529</updated>
       <workItem from="1700756024544" duration="26584000" />
-      <workItem from="1701424173126" duration="9846000" />
+      <workItem from="1701424173126" duration="12363000" />
     </task>
     <servers />
   </component>
